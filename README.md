@@ -1,1 +1,3 @@
-# simplestumanage
+# simplestumanage简单的PHP+Mysql学生管理系统
+
+MySQL应用技术的大作业，但是发现很可能使用于多门课程的大作业
